@@ -1,0 +1,11 @@
+serverHostName=ZILAP4748
+sys.languageId=en
+disableEULA=true
+platformAdmin.port=9191
+platformAdmin.databasePort=3377
+platformAdmin.dataDir=/donnees/appdynamics/platform/mysql/data
+platformAdmin.databasePassword=VMware2009
+platformAdmin.databaseRootPassword=VMware2009
+platformAdmin.adminPassword=VMware2009
+platformAdmin.useHttps$Boolean=true
+sys.installationDir=/progiciel/appdynamics/platform
